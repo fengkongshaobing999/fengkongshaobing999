@@ -140,6 +140,7 @@ https://fksb.net
 - [页面关键词监控工具](docs/page-keyword-monitor.md)
 - [网站存活检测工具](docs/website-status-monitor.md)
 - [DNS 污染检测工具](docs/dns-pollution-detection.md)
+- [多站点监控管理](docs/multi-site-monitoring.md)
 ---
 
 <div align="center">
