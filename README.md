@@ -139,6 +139,7 @@ https://fksb.net
 - [Google 风险检测说明](docs/google-risk-detection.md)
 - [页面关键词监控工具](docs/page-keyword-monitor.md)
 - [网站存活检测工具](docs/website-status-monitor.md)
+- [DNS 污染检测工具](docs/dns-pollution-detection.md)
 ---
 
 <div align="center">
