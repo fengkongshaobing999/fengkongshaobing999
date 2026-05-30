@@ -141,6 +141,7 @@ https://fksb.net
 - [网站存活检测工具](docs/website-status-monitor.md)
 - [DNS 污染检测工具](docs/dns-pollution-detection.md)
 - [多站点监控管理](docs/multi-site-monitoring.md)
+- [网站风险监控常见问题 FAQ](docs/website-monitoring-faq.md)
 ---
 
 <div align="center">
