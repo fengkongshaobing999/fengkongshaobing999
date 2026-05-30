@@ -136,6 +136,7 @@ https://fksb.net
 - [SSL 证书到期提醒工具](docs/ssl-certificate-alert.md)
 - [Telegram 网站异常告警机器人](docs/telegram-website-alert.md)
 - [域名劫持检测工具](docs/domain-hijack-detection.md)
+- [Google 风险检测说明](docs/google-risk-detection.md)
 ---
 
 <div align="center">
