@@ -143,6 +143,7 @@ https://fksb.net
 - [多站点监控管理](docs/multi-site-monitoring.md)
 - [网站风险监控常见问题 FAQ](docs/website-monitoring-faq.md)
 - [Telegram 网站告警机器人配置教程](docs/telegram-alert-setup.md)
+- [广告落地页打不开会造成什么影响？](docs/ad-landing-page-monitor.md)
 ---
 
 <div align="center">
